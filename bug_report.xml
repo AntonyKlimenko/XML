@@ -1,1 +1,10 @@
-
+<bugReport>
+  <summury>Log in button is disabled on the main page</summury>
+  <report_by>Anthony Klimeko</report_by>
+  <component>react_js</component>
+  <priopity>high</priority>
+  <severity>low</severity>
+  <steps_for_reproduce>1. Follow link "some link" 2. Click Log in button</steps_for_reproduce>
+  <expected_result>Log in page is opened</expected_result>
+  <actual_result> User stay on the main page</actual_result>
+</bugReport>
